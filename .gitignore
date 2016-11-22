@@ -1,0 +1,4 @@
+*.log
+spark-warehouse/
+metastore_db/
+newiris/
